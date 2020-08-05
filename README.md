@@ -1,5 +1,5 @@
 # CC_Wavelets
-This is a python code to compute two-term as well as three-term connection coeffiicients for all wavelet families of finite support on a unbounded interval. This code is an fix and elaboration on an existing code by Manuels ( https://github.com/manuels/db_cc3 ), where three-term connection coefficients are calculated for Daubechies wavelets. Most of this code is based on the equations given in ( Besora, 2004 ), which in turn is based on the theory of ( Latto et al, 1992 ). 
+This is a python code to compute two-term as well as three-term connection coefficients for all wavelet families of finite support on a unbounded interval. This code is an fix and elaboration on an existing code by Manuels ( https://github.com/manuels/db_cc3 ), where three-term connection coefficients are calculated for Daubechies wavelets. Most of this code is based on the equations given in ( Besora, 2004 ), which in turn is based on the theory of ( Latto et al, 1992 ). 
 
 ## Theory
 The theory is well outlined in ( Besora, 2004) or in the code of Manuels ( https://github.com/manuels/db_cc3 ). A summary is given here.
